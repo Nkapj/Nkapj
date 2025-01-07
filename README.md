@@ -8,7 +8,7 @@
 
 
 👋 Hello, **I’m Nzi Jessica**!
-<div style='display:flex; flex-direction: column; gap:10px; '>
+<div style='display:flex; flex-direction: row; gap:10px; '>
 <div>
 I began my journey 5 months ago,  
 Currently training as a <b>Full-stack Web Developer</b> at BeCode, I am at the beginning of an exciting career shift into the tech world. Passionate and deeply curious, I am eager to learn and grow in this field. I enjoy tackling challenges and finding innovative solutions while continuously expanding my knowledge.
