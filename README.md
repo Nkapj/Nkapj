@@ -23,7 +23,7 @@ I am at the beginning of an exciting career shift into the tech world.
 </div>
 <div style='flex:2'>
  
-<img src='https://backiee.com/static/wallpapers/1000x563/386745.jpg' alt='mygeekphoto' align:center; width:400px; height:auto; border-radius:10px;">
+<img src='https://backiee.com/static/wallpapers/1000x563/386745.jpg' alt='mygeekphoto' width:400px; height:auto; border-radius:10px;">
 </div>
 </div>
 
