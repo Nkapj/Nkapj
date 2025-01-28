@@ -8,32 +8,41 @@
  
 
 ---
+<br>
+<br>
+<br>
 
 👋 Hello, **I’m Nzi Jessica**!
 <div style='display:flex; align-items:center; gap:50px; '>
 <div style='flex:1'> 
- 
+
 🌞I began my journey 5 months ago,  
-Currently training as a **Full-stack Web Developer** at BeCode, 
-I am at the beginning of an exciting career shift into the tech world. 
+   Currently training as a **Full-stack Web Developer** at BeCode, <br>
+   I am at the beginning of an exciting career shift into the tech world. 
 
 
- 🪴Passionate and deeply curious, I am eager to learn and grow in this field. 
- I enjoy tackling challenges and finding innovative solutions while continuously expanding my knowledge.
+🪴Passionate and deeply curious, I am eager to learn and grow in this field. <br>
+   I enjoy tackling challenges and finding innovative solutions while <br> continuously expanding my knowledge.
 </div>
 <div style='flex:2'>
- 
-<img src='https://backiee.com/static/wallpapers/1000x563/386745.jpg' alt='mygeekphoto' width:400px; height:auto; border-radius:10px;">
+
+<p align="right">
+  <img src='https://backiee.com/static/wallpapers/1000x563/386745.jpg' alt='mygeekphoto' style="float:right; width:400px; height:auto; border-radius:10px;">
+</p>
+
+
 </div>
 </div>
 
 <br>
 <br>
+
+
 
 ---
 <br>
 
-💡 I’m currently seeking internship opportunities where I can apply my skills,
+💡 I’m currently seeking internship opportunities where I can apply my skills,<br>
 contribute to impactful projects, and continue to learn from experienced professionals.
 
 
