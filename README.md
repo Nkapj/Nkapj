@@ -13,15 +13,17 @@
 <div style='display:flex; align-items:center; gap:50px; '>
 <div style='flex:1'> 
  
- 🌞I began my journey 5 months ago,  
-Currently training as a **Full-stack Web Developer** at BeCode, I am at the beginning of an exciting career shift into the tech world. 
+🌞I began my journey 5 months ago,  
+Currently training as a **Full-stack Web Developer** at BeCode, 
+I am at the beginning of an exciting career shift into the tech world. 
 
 
- 🪴Passionate and deeply curious, I am eager to learn and grow in this field. I enjoy tackling challenges and finding innovative solutions while continuously expanding my knowledge.
+ 🪴Passionate and deeply curious, I am eager to learn and grow in this field. 
+ I enjoy tackling challenges and finding innovative solutions while continuously expanding my knowledge.
 </div>
 <div style='flex:2'>
  
-<img src='https://backiee.com/static/wallpapers/1000x563/386745.jpg' alt='mygeekphoto' style="float:left; width:400px; height:auto; border-radius:10px;">
+<img src='https://backiee.com/static/wallpapers/1000x563/386745.jpg' alt='mygeekphoto' align:center; width:400px; height:auto; border-radius:10px;">
 </div>
 </div>
 
@@ -31,7 +33,8 @@ Currently training as a **Full-stack Web Developer** at BeCode, I am at the begi
 ---
 <br>
 
-💡 I’m currently seeking internship opportunities where I can apply my skills, contribute to impactful projects, and continue to learn from experienced professionals.
+💡 I’m currently seeking internship opportunities where I can apply my skills,
+contribute to impactful projects, and continue to learn from experienced professionals.
 
 
 > ✈ Feel free to explore my repositories and **connect with me!** 🚀
